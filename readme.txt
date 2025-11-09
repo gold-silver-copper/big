@@ -6,6 +6,10 @@ iroh for p2p networking
 petgraph for entity relations?
 scheme for player scripting
 
+data sources:
+minerals: rruf.net
+animals and plants: 
+https://en.wiktionary.org/wiki/Category:mul:Taxonomic_names_(species)
 
 
 mechanics:
@@ -28,7 +32,3 @@ wood and carving knife for hilts
 raw material -> crafted material
 
 wood log -> wood handle
-
-granite stone -> granite rock -> granite bead
-granite bricks
-
