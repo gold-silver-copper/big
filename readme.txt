@@ -28,4 +28,7 @@ wood and carving knife for hilts
 raw material -> crafted material
 
 wood log -> wood handle
-:w
+
+granite stone -> granite rock -> granite bead
+granite bricks
+
