@@ -1,6 +1,14 @@
 fantasy/medieval text roguelike game
 
 
+bevy for main application handling (input, asynctaskpool, rendering)
+egui +ratatui for UI
+iroh for networking (p2p gossipsub)
+petgraph for "ECS"
+
+
+
+
 tech stack:
 iroh for p2p networking
 petgraph for entity relations?
